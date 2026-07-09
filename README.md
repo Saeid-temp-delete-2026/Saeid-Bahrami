@@ -13,21 +13,19 @@
 
 </div>
 
-## ⚡ Rapid Prototyping & Live Validations
-
-To provide a rapid Proof of Concept (PoC) for your research papers, my solvers are developed using Python and NumPy (for high-performance vectorized operations). The codes are executed interactively directly in the browser on my website.
+### Rapid Prototyping & Reproducible Science
+Driven by a passion for reproducible science, I regularly develop Python/NumPy solvers to validate and interactively reproduce concepts from compelling state-of-the-art fluid dynamics literature. These pure-Python solvers are designed for high-performance vectorized operations and can be executed live directly in the browser on my interactive portfolio.
 
 ---
 
-## 🔬 Core Credentials
-
+### Core Credentials
 * **CFD Researcher** @ BSC (Barcelona Supercomputing Center)
 * **M.Sc. Fluid Mechanics** (Grenoble INP)
 * **Inventor** (US Patent 11,124,953)
 
 ---
 
-## 🏗️ Architecture & Software Principles
+### Architecture Principles
 
 All repositories within this profile are engineered with strict adherence to **DRY (Don't Repeat Yourself)** principles, bridging the gap between advanced fluid dynamics and production-grade research software:
 
